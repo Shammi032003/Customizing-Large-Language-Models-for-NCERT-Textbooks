@@ -1,6 +1,20 @@
 # Customizing-Large-Language-Models-for-NCERT-Textbooks and Development of Interface which works Offline
 ## __Overview__
 Offline Language Models (LLMs) as a solution designed for pupils with restricted internet access. Our approach combines the National Council of Educational Research and Training (NCERT) dataset for foundational knowledge and straightforward answers with the Question Answering Dataset to encourage critical thinking. The model training prioritizes simplicity for NCERT-based content, delivering concise responses to straightforward queries. Simultaneously, question answer dataset integration prompts the model to provide nuanced responses; fostering out-of-the-box thinking. This paper details the methodology, encompassing pre-processing, model architecture, and evaluation metrics. Preliminary results indicate the model's effectiveness in delivering both fundamental and advanced conceptual understanding. The proposed Offline LLMs strive for inclusivity, ensuring all students benefit from tailored language models, irrespective of internet connectivity. This research lays the foundation for a more equitable education system by making sophisticated learning tools accessible to all.
+![Alt text](FrontPage.png)
+__Images of Front Page__
+
+![Alt text](offlineLLM.png)
+__Image of the Question Answer chatbot which works offline__
+
+![Alt text](Flashcards.png)
+__The Flashcard screen which helps you revise__
+
+![Alt text](Games.png)
+__Game page where quizzes are conducted__
+
+
+
 
 For many students, poor internet connectivity is a major barrier in the world of digital education. In order to close this gap, our research supports the creation of offline language models, or LLMs, designed especially for people without internet connection. Our strategy serves a range of learning demands by utilizing essential dataset: the National Council of Educational Research and Training (NCERT) for foundational knowledge. With user-friendliness as their first priority, the   models employ data from the NCERT dataset to provide accurate and understandable information for basic education—a vital resource in situations where internet availability is erratic.. With this method, advanced language models can now be accessed by everyone, regardless of internet connectivity limitations, potentially transforming education.
 
