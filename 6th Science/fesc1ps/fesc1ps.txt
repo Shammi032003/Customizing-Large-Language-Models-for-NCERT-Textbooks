@@ -1,0 +1,242 @@
+SCIENCE
+TEXTBOOK  FOR CLASS VI
+Rationalised 2023-24
+First Edition
+March 2006 Phalguna 1927
+ReprintedDecember 2006, February 2008,January 2009, November 2009,November 2010, January 2012,October 2013, December 2014,December 2015, January 2017,December 2017, December 2018,August 2019, January 2021,August 2021 and November 2021
+Revised Edition
+November 2022 Agrahayana 1944
+PD 850T BS
+© National Council of Educational
+Research and Training, 2006, 2022
+` 65.00ALL RIGHTS RESERVED
+No part of this publication may be reproduced, stored in a retrieval system or
+transmitted, in any form or by any means, electronic, mechanical, photocopying,
+recording or otherwise without the prior permission of the publisher.
+This book is sold subject to the condition that it shall not, by way of trade,  be lent,
+ re-sold, hired out or otherwise disposed of without the publisher’s consent, in
+any form of binding or cover other than that in which it is published.
+The correct price of this publication is the price printed on this page, Any revised
+price indicated by a rubber stamp or by a sticker or by any other means is incorrect
+and should be unacceptable.
+OFFICES OF THE PUBLICATION
+DIVISION, NCERT
+NCERT CampusSri Aurobindo Marg
+New  Delhi 110 016 Phone :  011-26562708
+108, 100 Feet RoadHosdakere Halli ExtensionBanashankari III StageBengaluru 560 085 Phone : 080-26725740
+Navjivan Trust BuildingP .O.NavjivanAhmedabad 380 014 Phone :  079-27541446
+CWC CampusOpp. Dhankal Bus StopPanihatiKolkata 700 114 Phone :  033-25530454
+CWC ComplexMaligaonGuwahati 781 021 Phone :  0361-2674869
+Publication Team
+Head, Publication : Anup Kumar Rajput
+Division
+Chief Production : Arun Chitkara
+OfficerChief Business : Vipin Dewan
+Manager
+Chief Editor (In charge) : Bijnan Sutar
+Production Assistant : Om Prakash
+Cover
+Shweta Rao
+ Layout and Illustrations
+Ashwani TyagiPrinted on 80 GSM paper with NCERT
+watermark
+Published at the Publication Division by the
+Secretary, National Council of EducationalResearch and Training, Sri Aurobindo Marg,
+New Delhi 110 016 and printed at 
+Eye
+Vision Printograph, 78, Mohkampur
+Industrial Complex, Phase-I, Delhi Road,Meerut - 250 002 (U.P.)ISBN  81-7450-512-10652 – S CIENCE
+Textbook for Class VI
+Rationalised 2023-24
+FOREWORD
+The National Curriculum Framework (NCF), 2005, recommends that children’s life
+at school must be linked to their life outside the school. This principle marks adeparture from the legacy of bookish learning which continues to shape our systemand causes a gap between the school, home and community. The syllabi andtextbooks developed on the basis of NCF signify an attempt to implement this basicidea. They also attempt to discourage rote learning and the maintenance of sharpboundaries between different subject areas. We hope these measures will take ussignificantly further in the direction of a child-centred system of education outlinedin the National Policy on Education (1986).
+The success of this effort depends on the steps that school principals and
+teachers will take to encourage children to reflect on their own learning and topursue imaginative activities and questions. We must recognise that, given space,time and freedom, children generate new knowledge by engaging with theinformation passed on to them by adults. Treating the prescribed textbook as thesole basis of examination is one of the key reasons why other resources and sitesof learning are ignored. Inculcating creativity and initiative is possible if weperceive and treat children as participants in learning, not as receivers of a fixedbody of knowledge.
+These aims imply considerable change in school routines and mode of
+functioning. Flexibility in the daily time-table is as necessary as rigour inimplementing the annual calendar so that the required number of teaching days
+are actually devoted to teaching. The methods used for teaching and evaluation
+will also determine how effective this textbook proves for making children’s life atschool a happy experience, rather than a source of stress or boredom. Syllabusdesigners have tried to address the problem of curricular burden by restructuringand reorienting knowledge at different stages with greater consideration for childpsychology and the time available for teaching. The textbook attempts to enhancethis endeavour by giving higher priority and space to opportunities forcontemplation and wondering, discussion in small groups, and activities requiringhands-on experience.
+National Council of Educational Research and Training (NCERT) appreciates
+the hard work done by the Textbook Development Committee responsible for thisbook. We wish to thank the Chairperson of the advisory group in Science and
+Mathematics, Professor J.V. Narlikar and the Chief Advisor for this book,
+Dr. N. Rathnasree for guiding the work of this committee. Several teacherscontributed to the development of this textbook; we are grateful to their principalsfor making this possible. We are indebted to the institutions and organisationswhich have generously permitted us to draw upon their resources, material andpersonnel. We are especially grateful to the members of the National MonitoringCommittee, appointed by the Department of Secondary and Higher Education,Ministry of Human Resource Development under the Chairpersonship of ProfessorMrinal Miri and Professor G.P. Deshpande, for their valuable time and contribution.As an organisation committed to systemic reform and continuous improvement inthe quality of its products, NCERT welcomes comments and suggestions which will
+enable us to undertake further revision and refinement.
+Director
+New Delhi National Council of Educational
+December 2005 Research and Training
+Rationalised 2023-24
+Rationalised 2023-24
+RATIONALISATION OF CONTENT IN
+THE TEXTBOOKS
+In view of the COVID-19 pandemic, it is imperative to reduce content load
+on students. The National Education Policy 2020, also emphasises reducingthe content load and providing opportunities for experiential learning withcreative mindset. In this background, the NCERT has undertaken the
+exercise to rationalise the textbooks across all classes. Learning Outcomes
+already developed by the NCERT across classes have been taken intoconsideration in this exercise.
+Contents of the textbooks have been rationalised in view of the
+following:
+• Overlapping with similar content included in other subject areas in the
+same class
+• Similar content included in the lower or higher class in the same subject
+• Difficulty level• Content, which is easily accessible to students without much
+interventions from teachers and can be learned by children through
+self-learning or peer-learning
+• Content, which is irrelevant in the present context
+This present edition, is a reformatted version after carrying out the
+changes given above.
+Rationalised 2023-24
+Rationalised 2023-24
+TEXTBOOK DEVELOPMENT COMMITTEE
+CHAIRPERSON , ADVISORY  GROUP IN SCIENCE  AND MATHEMATICS
+J.V. Narlikar, Emeritus Professor,  Chairman,  Advisory Committee Inter University Centre
+for Astronomy and Astrophysics (IUCCA), Ganeshkhind, Pune University, Pune
+CHIEF ADVISOR
+N. Rathnasree , Director,  Nehru Planetarium, Teen Murti House, New Delhi
+MEMBERS
+C. V. Shimray, Lecturer, Department of Education in Science and Mathematics, NCERT,
+Sri Aurobindo Marg, New Delhi
+D. Lahiry, Professor (Retd.),  DESM, NCERT, BL-89, Sector 2, Salt Lake, Kolkata
+G. P. Pande, Uttarakhand Seva Nidhi, Paryavaran Shiksha Sansthan, Jakhan Devi, Almora,
+Uttranchal
+Harsh Kumari, Headmistress, CIE Experimental Basic School, Department of Education,
+Delhi University, Delhi
+J. S. Gill, Professor, Department of Education in Science and Mathematics, NCERT,
+Sri Aurobindo Marg, New Delhi
+Jaishree Sikka, Assistant Professor,  Department of Botany, P.M.B. Gujarati Science College,
+Indore
+Kalyani Krishna, Reader, Department of Botany, Sri Venkateswara College, University of Delhi,
+Dhaula Kuan, New DelhiLalita C. Kumar, Reader (Chemistry),  School of Science, Indira Gandhi National Open
+University (IGNOU), Maidan Garhi, New Delhi
+Neeraja Raghavan, Writer , Girl’s Education Plus, 302, East Mansion, 2 Hutchins Road,
+Cooke Town, Bangalore
+P.S. Yadava, Professor, Department of Life Sciences, Manipur University, Imphal
+R. K. Parashar, Lecturer, Department of Education in Science and Mathematics, NCERT,
+Sri Aurobindo Marg, New DelhiRachna Garg, Lecturer, Central Institute of Educational Technology, NCERT,
+Sri Aurobindo Marg, New Delhi
+Ranjana Agrawal, Principal Scientist and Head, Division of Forcasting Techniques,
+Indian Agricultural Statistics Research Institute, IARI Campus, Pusa, New Delhi
+Sunila Masih, Teacher, Mitra GHS School, Suhagpur, P.O. Hoshangabad,  Madhya Pradesh
+Sunita Malhotra, Professor of Chemistry,  School of Science, Indira Gandhi National Open
+University (IGNOU), Maidan Garhi, New DelhiV. P. Srivastava, Reader, Department of Education in Science and Mathematics, NCERT,
+Sri Aurobindo Marg, New Delhi
+M
+EMBER -COORDINATOR
+R. Joshi, Lecturer (Selection Grade),   DESM, NCERT, New Delhi
+Rationalised 2023-24
+The National Council of Educational Research and Training (NCERT)
+acknowledges the valuable contribution of the individuals and organisations
+involved in the development of Science Textbook for Class VI. The Council
+acknowledges the valuable contribution of the following academics for reviewingand refining the manuscripts of this book: Sushma Kiran Setia, Principal ,
+Sarvodaya Kanya Vidyalaya, Hari Nagar (Clock Tower), New Delhi; Mohini Bindra,Principal, Ramjas School, Pusa Road, New Delhi; D. K. Bedi, Principal, Apeejay
+Senior Secondary School, Pitampura, Road No. 42, Sainik Vihar, New Delhi;Chand Vir Singh, Lecturer  (Biology ), GBSS School, Rajouri Garden (Main),
+New Delhi; Neelam Monga, TGT (Science) , Kendriya Vidyalaya, Janakpuri,
+New Delhi; Renuka Madan, TGT (Physics ), Air Force Golden Jubilee Institute,
+Subroto Park, Delhi Cantt; P.K. Bhattacharya, Professor  (Retd) Consultant , DESM,
+NCERT, New Delhi and Shukhvir Singh, Reader , DESM, NCERT, New Delhi.
+The Council gratefully acknowledges the valuable contribution of the following
+academics for the editing and finalisation of this book: Vinod Raina, Member
+National Monitoring Committee , Bharat Gyan Vigyan Samiti, Basement of YWA
+Building, Hostel No. 2, G. Block, Saket, New Delhi; Professor Amitabha Mukherjee,Director , Centre for Science Education and Communication (CSEC), 10  Cavalry
+Lane, University of Delhi, Delhi; Savithri Singh, Principal , AND College, University
+of Delhi, Govindpuri, New Delhi; M. M. Kapoor, Professor,  CSEC, 10  Cavalry
+Lane, University of Delhi, Delhi; R. M. Hallen, CSEC, 10 Cavalry Lane, Universityof Delhi, Delhi; D. A. Misra, Principal  (Retd), (As Nominee of CSEC) Directorate of
+Education, B 203, Saraswati Vihar, New Delhi; Charu Varma, Lecturer ,
+(As Nominee of CSEC), DIET, FU Block, Pitampura, Delhi. The  contributions ofRuchi Verma, Associate Professor, Pushplata Verma, Pramila Tanwar and AshishK. Srivastava, Assistant Professors , are acknowledged for being a part of the
+review of this textbook.
+The Council gratefully acknowledges the valuable feedback and suggestions
+received from Professor  Arvind Kumar, Director,  Homi Bhabha Centre for Science
+Education (HBCSE), TIFR, V. N. Purve Marg, Mankhurd, Mumbai and theacademics at HBCSE and CSEC at various stages of development of themanuscript of this textbook.
+The dynamic leadership of Professor M. Chandra, Head, DESM, for providing
+guidance in final editing of the manuscript and extending infrastructure facilitiesis highly acknowledged. Special thanks are due to Shveta Uppal, Chief Editor ;
+and Vandana Singh, Consultant Editor for  going through the manuscript andsuggesting relevant changes.
+The Council also acknowledges the efforts of Deepak Kapoor, Computer Station
+Incharge,  Muhammad Aiyub Raza Misbahi, DTP Operator ; Rajesh Kumar
+‘Manjhi’, Copy Editor ; Satish Kumar Mishra and Seema Yadav, Proofreaders .
+The contribution of APC-office, administration of DESM, Publication
+Department and Secretariat of NCERT is also acknowledged.ACKNOWLEDGEMENTS
+Rationalised 2023-24
+The team of Paheli and Boojho will be
+with you as you journey through this
+textbook. They love to ask questions.
+All kinds of questions come to their
+minds and they collect them in their
+sacks. Sometimes, they may share
+some of these questions with you, as
+you read through the chapters.
+Paheli and Boojho are also on the
+lookout for answers to many
+questions — sometimes the questions
+seem answered after they discuss
+them with each other, sometimes
+through discussions with other
+classmates, teachers or their parents.
+Answers to some questions do not
+seem available even after all these. They might need to experiment on their own,
+read books in the library, send questions to scientists. Just dig and dig and dig
+into all possibilities and see if the questions can be answered. Perhaps, they
+would carry some of the unanswered questions in their sacks to higher classes.
+What will really thrill them, would be your adding questions to their sacks
+or answer to their questions. Sometimes activities are suggested in the textbook,
+results or findings of these by different groups of students would be of interest to
+other students and teachers. You can complete the suggested activities and send
+your results or findings to Paheli and Boojho. Do keep in mind that activities
+that involve using blades, scissors or fire need to be done strictly under the care
+of your teachers. Stick to the precautions given and then enjoy doing all the
+suggested activities. Mind, the book will not be able to help you much, if the
+activities are not completed!
+You can send your feedback for Paheli and Boojho at.A NOTE FOR STUDENTS
+ 
+To
+The Head
+Department of Education inScience and Mathematics,NCERT, Sri Aurobindo Marg,New Delhi 110016
+Rationalised 2023-24
+CONSTITUTION OF INDIA
+Fundamental Duties
+Fundamental Duties – It shall be the duty of every citizen of India —
+(a) to abide by the Constitution and respect its ideals and institutions, the National
+Flag and the National Anthem;
+(b) to cherish and follow the noble ideals which inspired our national struggle for
+freedom;
+(c) to uphold and protect the sovereignty, unity and integrity of India;(d) to defend the country and render national service when called upon to do so;
+(e) to promote harmony and the spirit of common brotherhood amongst all the people
+of India transcending religious, linguistic and regional or sectional diversities; to
+renounce practices derogatory to the dignity of women;
+(f) to value and preserve the rich heritage of our composite culture;
+(g) to protect and improve the natural environment including forests, lakes, rivers,
+wildlife and to have compassion for living creatures;
+(h) to develop the scientific temper, humanism and the spirit of inquiry and reform;
+(i) to safeguard public property and to abjure violence;
+(j) to strive towards excellence in all spheres of individual and collective activity so
+that the nation constantly rises to higher levels of endeavour and achievement;
+(k) who is a parent or guardian, to provide opportunities for education to his child or,
+as the case may be, ward between the age of six and fourteen years.
+Part  IV A (Article  51 A)
+Rationalised 2023-24
+CONTENTS
+FOREWORD iii
+RATIONALISATION  OF CONTENT  IN THE TEXTBOOKS v
+A NOTE FOR STUDENTS ix
+C H A P T E R    1
+COMPONENTS  OF FOOD 1
+C H A P T E R    2S
+ORTING  MATERIALS  INTO GROUPS 11
+C H A P T E R    3S
+EPARATION  OF SUBSTANCES 20
+C H A P T E R    4
+GETTING  TO KNOW PLANTS 31
+C H A P T E R    5B
+ODY MOVEMENTS 45
+C H A P T E R    6
+THE LIVING ORGANISMS  — C HARACTERISTICS  AND HABITATS 58
+C H A P T E R    7M
+OTION AND MEASUREMENT  OF DISTANCES 74
+C H A P T E R    8L
+IGHT, SHADOWS  AND REFLECTIONS 86
+C H A P T E R    9E
+LECTRICITY  AND CIRCUITS 95
+C H A P T E R    10F
+UN WITH MAGNETS 104
+C H A P T E R    11
+AIR AROUND  US 115
+Rationalised 2023-24
+Rationalised 2023-24
