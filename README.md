@@ -6,7 +6,8 @@ Offline Language Models (LLMs) as a solution designed for pupils with restricted
 
 <img src="Images/ALL.png" alt="Alt text" width="1000" />
 
-
+## The Offline Web Page
+<img src="Images/Offline Web.png" alt="Alt text" width="1000" />
 
 
 
