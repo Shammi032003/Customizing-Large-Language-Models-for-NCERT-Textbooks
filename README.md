@@ -2,18 +2,14 @@
 ## __Overview__
 Offline Language Models (LLMs) as a solution designed for pupils with restricted internet access. Our approach combines the National Council of Educational Research and Training (NCERT) dataset for foundational knowledge and straightforward answers with the Question Answering Dataset to encourage critical thinking. The model training prioritizes simplicity for NCERT-based content, delivering concise responses to straightforward queries. Simultaneously, question answer dataset integration prompts the model to provide nuanced responses; fostering out-of-the-box thinking. This paper details the methodology, encompassing pre-processing, model architecture, and evaluation metrics. Preliminary results indicate the model's effectiveness in delivering both fundamental and advanced conceptual understanding. The proposed Offline LLMs strive for inclusivity, ensuring all students benefit from tailored language models, irrespective of internet connectivity. This research lays the foundation for a more equitable education system by making sophisticated learning tools accessible to all.
 
-![Alt text](Images/FrontPage.jpeg) 
 
-__Images of Front Page__
+<img src="Images/FrontPage.jpeg" alt="Alt text" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/OfflineLLM.jpeg" alt="Alt text" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Flashcards.jpeg" alt="Alt text" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Games.jpeg" alt="Alt text" width="200" />
 
-![Alt text](Images/offlineLLM.jpeg)
-__Image of the Question Answer chatbot which works offline__
+__Images of Front Page__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Chatbot which works offline__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Flashcards__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Game page__
 
-![Alt text](Images/Flashcards.jpeg)
-__The Flashcard screen which helps you revise__
 
-![Alt text](Images/Games.jpeg)
-__Game page where quizzes are conducted__
+
+
 
 
 
